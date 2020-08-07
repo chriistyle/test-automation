@@ -1,0 +1,8 @@
+Different Kinds of waits
+1) Implicit Wait\
+  > test file (base test)
+2) Explicit Wait
+  > framework (POM)
+3) Fluent wait
+  > explicit or implicit wait sya but has more lines to get more control on the flow
+.withTimeout().pollingEvery().ignoring()
